@@ -32,6 +32,5 @@ describe('Birthdays', () => {
         cy.get('.day').type('21')
         cy.get('.add-btn').click()
         cy.get('.month-card').last().contains('Karla: 12/21')
-        
     })
 })

@@ -3,7 +3,31 @@
     border-radius: 5px;
     text-align: center;
     border: 7px solid black;
-    padding: 15px;
-    width: 95%;
+    padding: 1%;
+    width: 94%;
     margin: 1%;
+    font-size: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-self: center;
+}
+
+.input {
+    display: flex;
+    flex-direction: column;
+    align-items: baseline;
+    width: 25%;
+}
+
+.name, .month, .day {
+    width: 100%;
+}
+
+.add-btn {
+    background-color: #5DE1E6;
+    color: white;
+    border: none;
+    border-radius: 15px;
+    padding: 1%;
 }
