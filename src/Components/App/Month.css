@@ -1,0 +1,16 @@
+.month-card {
+    background-color: white;
+    border-radius: 5px;
+    text-align: center;
+    border: 7px solid black;
+    padding: 15px;
+    width: 30%;
+    margin: auto;
+    height: 18vw;
+    width: 18vw;
+    margin: 1%;
+}
+
+.month-name {
+    color: #D077E7;
+}
