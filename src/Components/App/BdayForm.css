@@ -1,0 +1,9 @@
+.bday-form {
+    background-color: white;
+    border-radius: 5px;
+    text-align: center;
+    border: 7px solid black;
+    padding: 15px;
+    width: 95%;
+    margin: 1%;
+}
